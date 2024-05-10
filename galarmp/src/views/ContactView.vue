@@ -16,7 +16,7 @@ import BurgerSlide from '@/components/BurgerSlide.vue';
             <BurgerSlide></BurgerSlide>
         </div>
         <div class="title">
-            <img src="backwide.jpg" style="width: 100%;">
+            <img src="backwide.webp" alt="background" style="width: 100%; height: 40.98%;">
             <div class="center"><h1>Kontakt</h1></div>
         </div>
         <div class="mainView">

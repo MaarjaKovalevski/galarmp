@@ -12,12 +12,12 @@
 <style scoped>
 a {
     background-color: transparent;
-    color: #32455a
+    font-size: 1.3em;
+    color: var(--color-ftrtext);
 }
 
 .footer {
     border-top: solid;
-    border-color: #32455a;
     padding-top: 2em;
     padding-bottom: 2em;
 }

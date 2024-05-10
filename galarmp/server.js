@@ -21,6 +21,7 @@ const maxAge = 60 * 60;
 const generatejwt = (id) => { return jwt.sign({ id }, secret, { expiresIn: maxAge }) }
 
 
+
 app.get('/auth/authenticate', async(req, res) => {
     console.log('authentication request has arrived');
     const token = req.cookies.jwt;

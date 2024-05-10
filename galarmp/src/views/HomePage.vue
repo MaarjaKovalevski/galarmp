@@ -19,7 +19,7 @@ import FooterBar from '@/components/FooterBar.vue';
     </div>
     <!-- The title of the page with a picture as a background -->
     <div class="title">
-      <img src="back.jpg" style="width: 100%;">
+      <img src="backwide.webp" alt="background" style="width: 100%; height: 40.98%;">
       <div class="center"><h1>Raamatupidamine</h1></div>
     </div>
     <div class="mainView">
@@ -32,7 +32,7 @@ import FooterBar from '@/components/FooterBar.vue';
             <HomeInfo></HomeInfo>
             <!-- Picture of the company owner -->
             <div class="pic">
-              <img src="owner.jpg" alt="picture of owner" class="picture">
+              <img src="owner.webp" alt="picture of owner" class="picture">
             </div>
         </div>
       </div>

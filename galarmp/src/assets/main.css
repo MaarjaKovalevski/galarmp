@@ -10,7 +10,7 @@
 a,
 .green {
   text-decoration: none;
-  color: #EDEDED;
+  color: var(--color-navtext);
   background-color: #32455A;
   transition: 0.4s;
   padding: 10px;

@@ -40,7 +40,7 @@ export default {
   position: fixed;
   width: 36px;
   height: 30px;
-  left: 90%;
+  left: -70px !important;
   top: 36px;
   cursor: pointer;
   float: right;
@@ -82,7 +82,7 @@ export default {
   transition: 0.5s; /*0.5 second transition effect to slide in the sidenav*/
 }
 
-.bm-overlay {background: rgba(0, 0, 0, 0);}
+.bm-overlay {background: var(--color-background) !important}
 
 .bm-item-list {
   color: #ededed;
